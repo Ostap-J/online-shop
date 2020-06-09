@@ -54,5 +54,12 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Hair Drier Babyliss",
+        "image": "babHairdrier.jpg",
+        "description": "Best choice for ladies!",
+        "price": 3000.00
     }
 ]
